@@ -1,5 +1,5 @@
 
-# Excerpts from CS6415: <em>Firewall Attacks and Mitigation Techniques<em> (Higgins, G. & Vaishnavi, M. 2022)
+# Excerpts from CS6415: <em>Firewall Attacks and Mitigation Techniques<em> (Higgins, G. & Modi, V. 2022)
 
 ## Distributed Oblivious Firewall Model
 
